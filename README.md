@@ -1,2 +1,0 @@
-# rentstoragesydney
-My awesome repository
